@@ -1,0 +1,12 @@
+@inproceedings{REPO085,
+    author = "Rudow, Michael and Yan, Francis Y. and Kumar, Abhishek and Ananthanarayanan, Ganesh and Ellis, Martin and Rashmi, K.V.",
+    address = "Boston, MA",
+    booktitle = "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI 23)",
+    isbn = "978-1-939133-33-5",
+    month = "April",
+    pages = "953--971",
+    publisher = "USENIX Association",
+    title = "{Tambur: Efficient loss recovery for videoconferencing via streaming codes}",
+    url = "https://www.usenix.org/conference/nsdi23/presentation/rudow",
+    year = "2023"
+}
